@@ -30,8 +30,13 @@
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
+| [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
