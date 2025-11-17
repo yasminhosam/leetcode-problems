@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/yasminhosam/leetcode-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
