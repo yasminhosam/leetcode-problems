@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -31,6 +32,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Math
 |  |
@@ -51,5 +53,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
