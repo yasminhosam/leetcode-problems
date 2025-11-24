@@ -31,12 +31,14 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
+| [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Math
 |  |
