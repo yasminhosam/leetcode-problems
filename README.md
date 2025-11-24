@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yasminhosam/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yasminhosam/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
