@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yasminhosam/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -63,4 +64,8 @@
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yasminhosam/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
