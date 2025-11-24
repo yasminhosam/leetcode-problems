@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
 ## String
 |  |
@@ -53,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
