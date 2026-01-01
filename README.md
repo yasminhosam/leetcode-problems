@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yasminhosam/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/yasminhosam/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/yasminhosam/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yasminhosam/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yasminhosam/leetcode-problems/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
