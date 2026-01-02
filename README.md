@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -26,6 +27,7 @@
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
