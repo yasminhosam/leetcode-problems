@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yasminhosam/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yasminhosam/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yasminhosam/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/yasminhosam/leetcode-problems/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
