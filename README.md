@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yasminhosam/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -31,6 +32,7 @@
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -64,6 +66,7 @@
 | [0066-plus-one](https://github.com/yasminhosam/leetcode-problems/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -83,6 +86,7 @@
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yasminhosam/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
@@ -102,4 +106,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yasminhosam/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
