@@ -84,6 +84,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yasminhosam/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
