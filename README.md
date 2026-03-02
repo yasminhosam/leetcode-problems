@@ -140,4 +140,20 @@
 |  |
 | ------- |
 | [2600-k-items-with-the-maximum-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
