@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yasminhosam/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/yasminhosam/leetcode-problems/tree/master/0500-keyboard-row) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
