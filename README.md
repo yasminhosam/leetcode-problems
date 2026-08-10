@@ -74,6 +74,7 @@
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/yasminhosam/leetcode-problems/tree/master/0500-keyboard-row) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -83,6 +84,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/yasminhosam/leetcode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -158,4 +160,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/0112-path-sum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
