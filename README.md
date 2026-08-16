@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/yasminhosam/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/yasminhosam/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yasminhosam/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/yasminhosam/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yasminhosam/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/yasminhosam/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/yasminhosam/leetcode-problems/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Tree
 |  |
