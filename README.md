@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yasminhosam/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yasminhosam/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -78,6 +79,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yasminhosam/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yasminhosam/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/yasminhosam/leetcode-problems/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
