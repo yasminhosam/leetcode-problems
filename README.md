@@ -29,6 +29,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yasminhosam/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yasminhosam/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -47,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yasminhosam/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -69,6 +71,7 @@
 | [0344-reverse-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yasminhosam/leetcode-problems/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -116,6 +119,7 @@
 | [0229-majority-element-ii](https://github.com/yasminhosam/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
