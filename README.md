@@ -27,6 +27,7 @@
 | [0697-degree-of-an-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yasminhosam/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yasminhosam/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yasminhosam/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -198,5 +201,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yasminhosam/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
