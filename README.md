@@ -29,6 +29,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yasminhosam/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yasminhosam/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/yasminhosam/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yasminhosam/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -142,6 +143,7 @@
 | [0053-maximum-subarray](https://github.com/yasminhosam/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yasminhosam/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yasminhosam/leetcode-problems/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yasminhosam/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
 |  |
 | ------- |
@@ -203,4 +205,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yasminhosam/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/yasminhosam/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
