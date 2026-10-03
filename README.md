@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/yasminhosam/leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yasminhosam/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/yasminhosam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yasminhosam/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yasminhosam/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/yasminhosam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yasminhosam/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/yasminhosam/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
