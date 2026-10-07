@@ -56,6 +56,7 @@
 | [0697-degree-of-an-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yasminhosam/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/yasminhosam/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yasminhosam/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yasminhosam/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/yasminhosam/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yasminhosam/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yasminhosam/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yasminhosam/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -100,6 +102,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/yasminhosam/leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yasminhosam/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yasminhosam/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -132,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/yasminhosam/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yasminhosam/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yasminhosam/leetcode-problems/tree/master/0268-missing-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/yasminhosam/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yasminhosam/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
