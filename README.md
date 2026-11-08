@@ -104,6 +104,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/yasminhosam/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yasminhosam/leetcode-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/yasminhosam/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yasminhosam/leetcode-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/yasminhosam/leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yasminhosam/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/yasminhosam/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
